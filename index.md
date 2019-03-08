@@ -62,7 +62,7 @@ The following parties are currently the main active contributors or contractors 
 * <a href="https://www.isi.it/en/home" target="_blank">ISI Foundation</a>, Turin, Italy - *project lead and coordination*
 * <a href="https://www.dfki.de/en/web/" target="_blank">DFKI</a> - German Center for Artificial Intelligence, Kaiserslautern, Germany -  *research of technologies for privacy preserving, participatory data collection; master’s, bachelor thesis and student projects around Influenzanet 2.0*
 * <a href="https://www.inserm.fr/en" target="_blank">INSERM</a>, Sorbonne Université, Institut Pierre Louis d'Epidemiologie et de Santé Publique Paris, France - *requirements engineering, development of data analytics methods*
-* <a href="https://coneno.com)" target="_blank">coneno</a>, Germany - *technical infrastructure and software development*
+* <a href="https://coneno.com/)" target="_blank">coneno</a>, Germany - *technical infrastructure and software development*
 -->
 
 <div class="row" style="margin-bottom: 15px;">
@@ -94,7 +94,7 @@ The following parties are currently the main active contributors or contractors 
     <img src="./assets/images/logo_coneno.png" alt="Coneno Logo" style="max-height:40px; max-width: 60px;">
   </div>
   <div class="col-sm-10">
-   <a href="https://coneno.com)" target="_blank">coneno</a>, Germany - technical infrastructure and software development
+   <a href="https://coneno.com/)" target="_blank">coneno</a>, Germany - technical infrastructure and software development
   </div>
 </div>
 

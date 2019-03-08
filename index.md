@@ -50,10 +50,53 @@ The new system in developed is an open source solution using state of the art ar
 
 ## Parties
 The following parties are currently the main active contributors or contractors during the InfluenzaNet 2.0 development:
+
+<!--
+<div class="row" style="margin-top: 10px; margin-bottom: 15px">
+  <div class="col-sm-3 text-center"><img src="./assets/images/logo_isi.svg" alt="ISI Logo" style="max-height:40px;"></div>
+  <div class="col-sm-3 text-center"><img src="./assets/images/logo_dfki.png" alt="DFKI Logo" style="max-height:40px;"></div>
+  <div class="col-sm-3 text-center"><img src="./assets/images/logo_inserm.png" alt="Inserm Logo" style="max-height:40px;"></div>
+  <div class="col-sm-3 text-center"><img src="./assets/images/logo_coneno.png" alt="Coneno Logo" style="max-height:40px;"></div>
+</div>
+
 * <a href="https://www.isi.it/en/home" target="_blank">ISI Foundation</a>, Turin, Italy - *project lead and coordination*
 * <a href="https://www.dfki.de/en/web/" target="_blank">DFKI</a> - German Center for Artificial Intelligence, Kaiserslautern, Germany -  *research of technologies for privacy preserving, participatory data collection; master’s, bachelor thesis and student projects around Influenzanet 2.0*
 * <a href="https://www.inserm.fr/en" target="_blank">INSERM</a>, Sorbonne Université, Institut Pierre Louis d'Epidemiologie et de Santé Publique Paris, France - *requirements engineering, development of data analytics methods*
 * <a href="https://coneno.com)" target="_blank">coneno</a>, Germany - *technical infrastructure and software development*
+-->
+
+<div class="row" style="margin-bottom: 15px;">
+  <div class="col-sm-2">
+    <img src="./assets/images/logo_isi.svg" alt="ISI Logo" style="max-height:40px; max-width: 60px;">
+  </div>
+  <div class="col-sm-10">
+   <a href="https://www.isi.it/en/home" target="_blank">ISI Foundation</a>, Turin, Italy - project lead and coordination
+  </div>
+</div>
+<div class="row" style="margin-bottom: 15px;">
+  <div class="col-sm-2">
+    <img src="./assets/images/logo_dfki.png" alt="DFKI Logo" style="max-height:40px; max-width: 60px;">
+  </div>
+  <div class="col-sm-10">
+     <a href="https://www.dfki.de/en/web/" target="_blank">DFKI</a> - German Center for Artificial Intelligence, Kaiserslautern, Germany -  research of technologies for privacy preserving, participatory data collection; master’s, bachelor thesis and student projects around Influenzanet 2.0
+  </div>
+</div>
+<div class="row" style="margin-bottom: 15px;">
+  <div class="col-sm-2">
+    <img src="./assets/images/logo_inserm.png" alt="Inserm Logo" style="max-height:40px; max-width: 60px;">
+  </div>
+  <div class="col-sm-10">
+     <a href="https://www.inserm.fr/en" target="_blank">INSERM</a>, Sorbonne Université, Institut Pierre Louis d'Epidemiologie et de Santé Publique Paris, France - requirements engineering, development of data analytics methods
+  </div>
+</div>
+<div class="row" style="margin-bottom: 25px;">
+  <div class="col-sm-2">
+    <img src="./assets/images/logo_coneno.png" alt="Coneno Logo" style="max-height:40px; max-width: 60px;">
+  </div>
+  <div class="col-sm-10">
+   <a href="https://coneno.com)" target="_blank">coneno</a>, Germany - technical infrastructure and software development
+  </div>
+</div>
 
 
 ## Roadmap for 2019
